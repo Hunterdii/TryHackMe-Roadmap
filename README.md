@@ -208,13 +208,13 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro) ⚠️Not available anymore
 
 - [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)  ⚠️Not available anymore
 
-- [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) ⚠️Not available anymore
 
 - [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
