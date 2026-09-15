@@ -120,6 +120,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 ---
 
+[Dark-Moon](https://github.com/ASCIT31/Dark-Moon): open source (GPL-3.0) autonomous AI penetration testing platform (web, API, Active Directory, Kubernetes), self hosted with proof of exploitation, useful to practice on the legal rooms and labs above.
 ## 🌟 Additional Suggestions for Labs
 
 Here are a few other labs you could consider adding:
